@@ -1,6 +1,6 @@
 # 42 Inception 🏗️🛡️
 
-> Summary: This project is a hands-on introduction to infrastructure management using **Docker**. It contains tasks such as: deploying a secure, modular, and automated multi-service stack, focusing on best practices in containerization, system configuration, and orchestration. The project is built for the 42 curriculum and emphasizes understanding the principles behind DevOps, virtualization, and network security.
+> Summary: This project is a hands-on introduction to infrastructure management using **Docker**. It contains tasks such as: deploying a secure, modular, and automated multi-service stack, focusing on best practices in containerization, system configuration, and orchestration. The project is built for the 42 curriculum and emphasizes understanding the principles behind DevOps, virtualization, and network security. There is a choice between using Aline and Debian Linux. This project was done using the penultimate version of Alpine Linux at the time of making: 3.21.
 
 ---
 
